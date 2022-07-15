@@ -1,0 +1,42 @@
+C:\Users\רק בשמחה\Desktop\WebApplication1\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.deps.json
+C:\Users\רק בשמחה\Desktop\WebApplication1\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.dll
+C:\Users\רק בשמחה\Desktop\WebApplication1\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.pdb
+C:\Users\רק בשמחה\Desktop\WebApplication1\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\רק בשמחה\Desktop\WebApplication1\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\רק בשמחה\Desktop\WebApplication1\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.AssemblyInfoInputs.cache
+C:\Users\רק בשמחה\Desktop\WebApplication1\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.AssemblyInfo.cs
+C:\Users\רק בשמחה\Desktop\WebApplication1\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\רק בשמחה\Desktop\WebApplication1\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.dll
+C:\Users\רק בשמחה\Desktop\WebApplication1\ClassLibrary1\obj\Debug\net6.0\refint\ClassLibrary1.dll
+C:\Users\רק בשמחה\Desktop\WebApplication1\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.pdb
+C:\Users\רק בשמחה\Desktop\WebApplication1\ClassLibrary1\obj\Debug\net6.0\ref\ClassLibrary1.dll
+C:\Users\רק בשמחה\Desktop\WebApplication1\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.runtimeconfig.json
+C:\Users\רק בשמחה\Desktop\WebApplication1\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.genruntimeconfig.cache
+C:\Users\רק בשמחה\Desktop\WebApplication1 - Copy\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.deps.json
+C:\Users\רק בשמחה\Desktop\WebApplication1 - Copy\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.runtimeconfig.json
+C:\Users\רק בשמחה\Desktop\WebApplication1 - Copy\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.dll
+C:\Users\רק בשמחה\Desktop\WebApplication1 - Copy\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.pdb
+C:\Users\רק בשמחה\Desktop\WebApplication1 - Copy\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\רק בשמחה\Desktop\WebApplication1 - Copy\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\רק בשמחה\Desktop\WebApplication1 - Copy\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.AssemblyInfoInputs.cache
+C:\Users\רק בשמחה\Desktop\WebApplication1 - Copy\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.AssemblyInfo.cs
+C:\Users\רק בשמחה\Desktop\WebApplication1 - Copy\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\רק בשמחה\Desktop\WebApplication1 - Copy\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.dll
+C:\Users\רק בשמחה\Desktop\WebApplication1 - Copy\ClassLibrary1\obj\Debug\net6.0\refint\ClassLibrary1.dll
+C:\Users\רק בשמחה\Desktop\WebApplication1 - Copy\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.pdb
+C:\Users\רק בשמחה\Desktop\WebApplication1 - Copy\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.genruntimeconfig.cache
+C:\Users\רק בשמחה\Desktop\WebApplication1 - Copy\ClassLibrary1\obj\Debug\net6.0\ref\ClassLibrary1.dll
+C:\Users\רק בשמחה\Desktop\זמני\WebApplication1 - Copy\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.deps.json
+C:\Users\רק בשמחה\Desktop\זמני\WebApplication1 - Copy\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.runtimeconfig.json
+C:\Users\רק בשמחה\Desktop\זמני\WebApplication1 - Copy\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.dll
+C:\Users\רק בשמחה\Desktop\זמני\WebApplication1 - Copy\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.pdb
+C:\Users\רק בשמחה\Desktop\זמני\WebApplication1 - Copy\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\רק בשמחה\Desktop\זמני\WebApplication1 - Copy\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\רק בשמחה\Desktop\זמני\WebApplication1 - Copy\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.AssemblyInfoInputs.cache
+C:\Users\רק בשמחה\Desktop\זמני\WebApplication1 - Copy\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.AssemblyInfo.cs
+C:\Users\רק בשמחה\Desktop\זמני\WebApplication1 - Copy\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\רק בשמחה\Desktop\זמני\WebApplication1 - Copy\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.dll
+C:\Users\רק בשמחה\Desktop\זמני\WebApplication1 - Copy\ClassLibrary1\obj\Debug\net6.0\refint\ClassLibrary1.dll
+C:\Users\רק בשמחה\Desktop\זמני\WebApplication1 - Copy\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.pdb
+C:\Users\רק בשמחה\Desktop\זמני\WebApplication1 - Copy\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.genruntimeconfig.cache
+C:\Users\רק בשמחה\Desktop\זמני\WebApplication1 - Copy\ClassLibrary1\obj\Debug\net6.0\ref\ClassLibrary1.dll
